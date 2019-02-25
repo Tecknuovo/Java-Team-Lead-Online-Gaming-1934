@@ -8,6 +8,7 @@ Java 8 / Docker / Kubernetes / Microservices / GCP / TDD / Spring Boot
 # What you’ll be doing: 
 
 Do you put the ‘’tea’’ in Team? If so, then read the below:
+
 You will be a technically gifted Java developer, with previous experience in a management role. You will be managing one of the many teams working on the Java platform using Servant leadership. As a Team Lead you will be responsible for creating a good environment for the team to build on the already existing world-class gaming platform. You will be working on a large-scale project, with over 20 million players worldwide. You will be a free-thinking problem solver that is easily approachable and happy to help the team with anything. 
 
 # The environment/Culture: 
