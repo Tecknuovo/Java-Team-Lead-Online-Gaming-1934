@@ -1,6 +1,6 @@
 # Java-Team-Lead-Online-Gaming-1934
 
-# Team Lead / Online Gaming / Central London / £70,000-£80,000 + 10% bonus
+Team Lead / Online Gaming / Central London / £70,000-£80,000 + 10% bonus
 
 # Stack: 
 
@@ -32,7 +32,9 @@ You will be joining one of the biggest online gaming companies in Europe, and th
 -	Strong knowledge of Java 8.
 -	Strong communication skills 
 
-If you haven’t got an up to date CV, then apply using your LinkedIn profile. Send it to calvin.dickinson@tecknuovo.com
+Don’t worry if you don’t have a CV, just send me your LinkedIn profile and we can go from there!
+
+Please email calvin.dickinson@tecknuovo.com if you’d like to talk through the above in more detail.
 
 # Questions:
 **What is the salary range?**
